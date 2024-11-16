@@ -1,5 +1,5 @@
 # tcgpocketpokemon
-[Pokémon TCG Pocket]url(https://tcgpocketpokemon.com/)
+Pokémon TCG Pocket:(https://tcgpocketpokemon.com/)
 
 Pokémon TCG Pocket is a newly launched mobile game that brings the beloved Pokémon Trading Card Game (TCG) experience to iOS and Android devices. Released on October 30, 2024, this game has quickly gained popularity, amassing over 30 million downloads within its first ten days. It offers players a chance to collect and battle with digital cards featuring both classic Pokémon and new, exclusive designs.
 
